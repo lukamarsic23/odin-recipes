@@ -1,4 +1,28 @@
+body {
+    background-color: bisque;
+}
 h1 {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    color:aqua;
+    text-align: center;
+    justify-content: center;
+    color: #D13817;
+}
+
+.list {
+    font-size: 20px;
+    font-family: 'Kanit';
+    text-decoration: none;
+    text-align: center;
+}
+ul {
+    display: inline-block;
+    text-align: left;
+    margin-right: 600px;
+}
+a:link {
+    color: purple;
+}
+
+a:hover {
+    color: rgb(18, 100, 171); 
+
 }
